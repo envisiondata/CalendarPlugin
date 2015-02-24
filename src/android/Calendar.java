@@ -1,4 +1,4 @@
-package com.example.myplugin;
+package org.devgirl.calendar.Calendar;
  
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
